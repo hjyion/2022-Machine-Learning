@@ -14,7 +14,7 @@
 We used Sklearn libraries for...
 
 * **XGBoost** (Our model)
-* Logistic Regression, KNN, RandomForest, MLP as comparison
+* Logistic Regression, KNN, RandomForest, MLP for comparison
 
 ### Performance Evaluation
 1. classification report
