@@ -1,23 +1,23 @@
 # 22-2 Machine Learning Team Project (FiveK)
 
 
-### Dataset
+### 1. Dataset
 [creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-### Requirements
+### 2. Requirements
 * Python
 * Pandas and Numpy
 * Sklearn Library
 * Python Matplotlib and Seaborn for Visualization
 
-### Models 
+### 3. Models 
 We used Sklearn libraries for...
 
 * **XGBoost** (Our model)
 * Logistic Regression, KNN, RandomForest, MLP for comparison
 
-### Performance Evaluation
-1. classification report
-2. confusion matrix
+### 4. Performance Evaluation
+* classification report
+* confusion matrix
 
-### Results
+### 5. Results
