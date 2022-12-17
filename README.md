@@ -79,7 +79,7 @@ So, does oversampling really work on our dataset in other ways?
 
 ![18](https://user-images.githubusercontent.com/80759204/208239117-6a99bfb3-202e-418b-85a4-79226e1950d9.JPG)
 
-To answer this question, we can try other methods such as
+To answer this question, we can try other methods such as:
   1. Perform feature selection
   2. Try other oversampling techniques such as ADASYN, borderline SMOTE, etc.
   3. Try hybrid method of oversampling and undersampling to avoid the prediction to be biased in either class.
