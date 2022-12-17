@@ -40,3 +40,8 @@ We used Sklearn libraries for models below.
 * MLP
 
 ### 4. Results
+
+* XGBoost 
+* Changing base rate of test set (1:1, 1:10, 1:100, 1:577.87(original))
+* Comparision with other models
+* 
