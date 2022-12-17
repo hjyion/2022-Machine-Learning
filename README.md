@@ -4,15 +4,13 @@
 ### 1. Dataset
 We obtained our dataset from Kaggle.
 * [creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-Our dataset 
 
 ### 2. Requirements
-To run this project, Python and the following libraries are required:
+To run this project, Python and following libraries are required:
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for Visualization
-
 
 ### 3. Models 
 We used Sklearn libraries for...
