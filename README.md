@@ -75,7 +75,7 @@ _Reference : L. Lusa and R. Blagus, “Evaluation of SMOTE for high-dimensional 
 
 ### 6. Discussion
 
-So, does oversampling really work on our dataset in other ways?
+Does oversampling really work on our dataset in other ways?
 
 ![18](https://user-images.githubusercontent.com/80759204/208239117-6a99bfb3-202e-418b-85a4-79226e1950d9.JPG)
 
