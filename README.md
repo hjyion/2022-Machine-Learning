@@ -1,7 +1,7 @@
 # 22-2 Machine Learning Team Project (FiveK)
 ![11](https://user-images.githubusercontent.com/80759204/208238456-7ee65f32-ecff-4525-bbf7-7369a9aa5c0c.JPG)
 
-This project is about detecting fraud credit card transactions by using proper machine learning algorithm. We chose XGBoost as our model and decided to apply oversampling technique named SMOTE. However, our experimental result showed that applying SMOTE on XGBoost leads to worse performance in terms of precision. Thus, we tried to discover the reason why SMOTE did not improve the performance of XGBoost with our dataset. To reach our conclusion, we designed several experimental scenarios such as changing base rate of test set and comparing some evaluation metrics with other models. Our experimental results can be found below. Thank you!
+This project is about detecting fraud credit card transactions by using proper machine learning algorithm. We chose XGBoost as our model and decided to apply oversampling technique named SMOTE. However, our experimental result showed that applying SMOTE on XGBoost leads to worse performance in terms of precision. Thus, we tried to discover the reason why SMOTE did not improve the performance of XGBoost with our dataset. To reach our conclusion, we designed several experimental scenarios such as changing base rate of test set and comparing some evaluation metrics with other models. Our experimental results can be found below. 
 
 ### 1. Dataset
 
