@@ -6,7 +6,7 @@
   * [creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ### 2. Requirements
-  We used Google Colab with Google Drive for convenience. To access dataset on drive after download, code below will help you mount your drive to /content/drive/MyDrive directory.
+  We used Google Colab with Google Drive for convenience. To access dataset on drive after download, code below will help you mount your drive to **/content/drive/MyDrive** directory.
 
 ```python
 from google.colab import drive
