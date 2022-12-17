@@ -3,8 +3,7 @@
 
 ### 1. Dataset
 We obtained our dataset from Kaggle.
-
-[creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+* [creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ### 2. Requirements
 To run this project, Python and the following libraries are required:
