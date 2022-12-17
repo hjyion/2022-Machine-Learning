@@ -1,5 +1,6 @@
 # 22-2 Machine Learning Team Project (FiveK)
 
+This project is 
 
 ### 1. Dataset
   We obtained our dataset from Kaggle.
@@ -30,13 +31,12 @@ from sklearn.model_selection import train_test_split
 ```
 
 ### 3. Models 
-We used Sklearn libraries for...
+We used Sklearn libraries for models below.
 
 * **XGBoost** (Our model)
-* Logistic Regression, KNN, RandomForest, MLP for comparison
+* Logistic Regression
+* KNN (n_neighbors = 3)
+* RandomForest
+* MLP
 
-### 4. Performance Evaluation
-* classification report
-* confusion matrix
-
-### 5. Results
+### 4. Results
